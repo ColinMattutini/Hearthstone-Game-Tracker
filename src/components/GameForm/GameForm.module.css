@@ -1,0 +1,6 @@
+.button {
+  background-image: url("../../assets/Portrait1.png");
+  background-size: cover;
+  height: 40vh;
+  width: 30vh;
+}
